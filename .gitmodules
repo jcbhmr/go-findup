@@ -1,6 +1,3 @@
 [submodule "sys/find-up"]
 	path = sys/find-up
 	url = https://github.com/sindresorhus/find-up.git
-[submodule "sys/locate-path"]
-	path = sys/locate-path
-	url = https://github.com/sindresorhus/locate-path.git
