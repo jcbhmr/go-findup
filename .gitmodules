@@ -1,3 +1,0 @@
-[submodule "sys/find-up"]
-	path = sys/find-up
-	url = https://github.com/sindresorhus/find-up.git
